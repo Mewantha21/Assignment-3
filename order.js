@@ -1,4 +1,4 @@
-// Application that usees v-model to create reactive content. 
+// Application that usees v-model in order to create reactive content. 
 var app1 = new Vue ({
     el: '.order-form',
     data: {
